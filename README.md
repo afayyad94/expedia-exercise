@@ -1,3 +1,7 @@
+Heroku URL >>>>>>>>> https://expedia-exercise-afayyad94.herokuapp.com
+
+Travis URL >>>>>>>>> https://travis-ci.org/afayyad94/expedia-exercise
+
 # expedia-assignment
 Assumptions :
 -JDK1.8
